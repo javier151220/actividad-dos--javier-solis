@@ -244,7 +244,7 @@ elif cantidad == 5:
     estudiante4 = {"nombre": nombre4, "notas": notas4, "promedio": promedio4, "situacion": situacion4}
     estudiantes.append(estudiante4)
 
-    # Estudiante 5
+    # Estudiante 5.
 
     nombre5 = input("Ingresa el nombre del quinto estudiante: ")
     notas5 = (float(input("Ingresa la primer nota: ")),float(input("Ingresa la segunda nota: ")),float(input("Ingresa la tercer nota: ")))
